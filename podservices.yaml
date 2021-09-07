@@ -8,5 +8,5 @@ spec:
     tartgetPort: nginx
     protocol: TCP
   selector:
-     app: helloworld
+   app: helloworld
   type: LoadBalancer
