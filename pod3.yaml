@@ -9,5 +9,5 @@ spec:
     ports:
     - name: nginx
       containerPort: 3000
-  - name: collectLog
+  - name: collectlog
     image: afakharany/watcher:latest
