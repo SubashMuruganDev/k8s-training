@@ -11,5 +11,3 @@ spec:
       containerPort: 3000
   - name: collectlog
     image: afakharany/watcher:latest
-  - name: alpine
-    image: alpine:3.14
